@@ -3,6 +3,7 @@ name: unity-cli
 description: Controls Unity Editors and projects from the command line, including a running Editor. Make sure to use this skill when the user asks to install or manage Editors, licenses, or projects, set up version control, build, test, edit scenes, run C#, look up the scripting API or manual for the project's Unity version, or run any unity command.
 allowed-tools:
   - Bash
+disable-model-invocation: true
 ---
 
 # Unity CLI

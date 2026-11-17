@@ -5,6 +5,7 @@ allowed-tools: WebFetch, WebSearch
 metadata:
   version: 0.3.0
   support: "https://unity.com/support-services"
+disable-model-invocation: true
 ---
 
 # Create and fix Unity 2D physics

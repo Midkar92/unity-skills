@@ -1,6 +1,7 @@
 ---
 name: optimize-web
 description: Optimizes Unity WebGL and WebGPU builds for smaller downloads, faster loading, and smoother browser performance. Use when asked to shrink a web build, speed up its load, or fix stutter, memory or battery problems in the browser.
+disable-model-invocation: true
 ---
 Audit and apply the Player Settings, compression, stripping, and server setup that make a Unity Web build smaller and faster.
 

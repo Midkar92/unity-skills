@@ -1,6 +1,7 @@
 ---
 name: ui-uitk
 description: Understands, edits, and generates Unity UI Toolkit UXML and USS with flex layouts. Use for requests involving UI Toolkit, UIElements, UIDocument, PanelSettings, custom elements, or UI runtime binding.
+disable-model-invocation: true
 ---
 
 Understand existing Unity UI Toolkit code, make targeted edits, generate new UXML/USS files, Manipulators, and handle UI runtime binding.

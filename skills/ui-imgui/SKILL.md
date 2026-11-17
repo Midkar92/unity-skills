@@ -1,6 +1,7 @@
 ---
 name: ui-imgui
 description: Generates and modifies Unity IMGUI editor code such as EditorWindows, custom Inspectors, PropertyDrawers, and OnGUI scripts. Use for IMGUI or OnGUI or maintaining existing IMGUI code.
+disable-model-invocation: true
 ---
 
 **Before proceeding:** If the user is asking about creating a **new** editor window, custom inspector, or PropertyDrawer without explicitly mentioning IMGUI/OnGUI, recommend using UI Toolkit (CreateGUI) instead, as it's the modern approach. Only proceed with IMGUI if:

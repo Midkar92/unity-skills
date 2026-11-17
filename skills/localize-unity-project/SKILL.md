@@ -1,6 +1,7 @@
 ---
 name: localize-unity-project
 description: Sets up Unity Localization, including locales, String and Asset Tables, and CJK fonts. Use when the user wants to add languages or translate UI text.
+disable-model-invocation: true
 ---
 
 ## Important

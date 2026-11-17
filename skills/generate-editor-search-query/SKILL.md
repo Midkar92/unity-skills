@@ -3,6 +3,7 @@ name: generate-editor-search-query
 description: Generates Unity Search queries and opens the Search window to find assets or scene objects. Use when the user asks to find, filter, or list assets, GameObjects, components, or references in the Editor, not on disk.
 enabled: true
 modes: [agent, ask]
+disable-model-invocation: true
 ---
 
 Translate natural-language Unity Editor search requests into useful Unity Search queries, explain them briefly, and open the Unity Search window with the query when appropriate.

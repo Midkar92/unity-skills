@@ -5,6 +5,7 @@ description: >-
   runtime assets. Use this skill for graph, node or state machine editors, or GraphView migrations. Not
   for Shader Graph, VFX Graph or Animator.
 required_editor_version: ">=6000.6"
+disable-model-invocation: true
 ---
 
 # Unity Graph Toolkit (GTK)

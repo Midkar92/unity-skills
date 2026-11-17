@@ -2,6 +2,7 @@
 name: sprite-editor
 description: Edits Unity sprite rectangles, borders, pivots, outlines, and slicing by generating C# scripts. Use when the user works with sprite sheets or sprite slicing.
 modes: [agent, ask]
+disable-model-invocation: true
 ---
 
 # Sprite Editor

@@ -8,6 +8,7 @@ allowed-tools:
 metadata:
   version: 1.0.0
   support: "https://support.unity.com/hc/en-us/sections/13795481434004-Unity-Build-Automation"
+disable-model-invocation: true
 ---
 
 # Manage cloud builds

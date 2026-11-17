@@ -1,6 +1,7 @@
 ---
 name: manage-sprite-atlas
 description: Manages SpriteAtlas assets through a prebuild pipeline, covering master and variant atlases, packing settings, and platform overrides. Use when asked to create or optimize sprite atlases.
+disable-model-invocation: true
 ---
 
 # Unity SpriteAtlas V2

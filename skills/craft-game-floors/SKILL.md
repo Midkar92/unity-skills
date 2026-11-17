@@ -6,6 +6,7 @@ allowed-tools:
   - Read
   - Write
   - Edit
+disable-model-invocation: true
 ---
 
 # Craft Game Floors

@@ -2,6 +2,7 @@
 name: project-auditor-fixes
 description: "Instructions for how to use Project Auditor to find and fix a list of issues."
 version: 1.0.0
+disable-model-invocation: true
 ---
 
 Using Project Auditor

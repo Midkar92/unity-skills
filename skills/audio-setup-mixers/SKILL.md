@@ -1,6 +1,7 @@
 ---
 name: audio-setup-mixers
 description: Routes Audio Sources into existing Audio Mixer Groups, classifying each source by what it plays. Use when the user asks about cleaning up mixer assignments, routing audio through a mixer, or which group a sound belongs in.
+disable-model-invocation: true
 ---
 # Audio Mixer Setup
 

@@ -4,6 +4,7 @@ description: >-
   Sets up a Unity project for XR. Use when user asks for XR, OpenXR, Quest
   graphics or XR rig.
 required_editor_version: ">=6000.1"
+disable-model-invocation: true
 ---
 
 Set up a Unity project for XR: configure it for the target devices, optimize graphics for Quest, then add a configured XR rig.

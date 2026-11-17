@@ -1,6 +1,7 @@
 ---
 name: levelplay-unity-integration
 description: Integrates the LevelPlay ad mediation SDK via the Ads Mediation package. Use when the user asks about adding rewarded, interstitial, or banner ads, mediation or ad privacy setup, Android or iOS ad dependency build failures, or migrating from Unity Ads or IronSource APIs.
+disable-model-invocation: true
 ---
 
 # LevelPlay Unity package/SDK Integration

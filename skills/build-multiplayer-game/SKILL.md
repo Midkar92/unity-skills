@@ -5,6 +5,7 @@ description: >-
 allowed-tools:
   - WebFetch
   - WebSearch
+disable-model-invocation: true
 ---
 
 # Build multiplayer game

@@ -4,6 +4,7 @@ description: Creates a 2D tile palette from sprites or textures, or makes tiles 
 required_packages:
   com.unity.2d.tilemap: ">=1.0.0"
   com.unity.2d.tilemap.extras: ">=4.0.0"
+disable-model-invocation: true
 ---
 
 # Create tile palettes and RuleTiles

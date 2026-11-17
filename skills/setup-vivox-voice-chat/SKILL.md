@@ -3,6 +3,7 @@ name: setup-vivox-voice-chat
 description: Adds and configures in-game voice and text chat with Unity Vivox. Use when asked to add voice or text chat to a multiplayer game, such as team channels, proximity voice, mute controls or private messages.
 required_packages:
   com.unity.services.vivox: ">=16.4.0"
+disable-model-invocation: true
 ---
 
 # Unity Vivox — Voice & Text Chat

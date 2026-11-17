@@ -1,6 +1,7 @@
 ---
 name: build-live-game
 description: Builds and operates a live game backend on Unity Gaming Services. Make sure to use this skill when the user wants sign-in or sign-in checks, trusted server-side game logic, player progress, remote config, achievements, battle passes or leaderboards.
+disable-model-invocation: true
 ---
 
 # Build a Live Game With Unity Gaming Services

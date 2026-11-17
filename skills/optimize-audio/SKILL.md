@@ -1,6 +1,7 @@
 ---
 name: optimize-audio
 description: Optimizes audio memory, CPU cost, and playback quality through import settings and mixer configuration. Use when asked to reduce audio memory or Audio Mixer CPU cost, change clip Load Types, sample rates or codecs, or force 3D audio to mono.
+disable-model-invocation: true
 ---
 ## Critical Rules
 

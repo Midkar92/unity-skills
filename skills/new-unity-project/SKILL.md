@@ -5,6 +5,7 @@ allowed-tools:
   - Bash
   - Write
   - Edit
+disable-model-invocation: true
 ---
 
 # New Unity Project

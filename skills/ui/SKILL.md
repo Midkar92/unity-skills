@@ -1,6 +1,7 @@
 ---
 name: ui
 description: Routes Unity UI requests to the right framework skill (UI Toolkit, uGUI, or IMGUI) and answers UI comparison questions. Use for menus, HUDs, panels, or editor UI when the request doesn't name a framework. Consult before writing any UI code.
+disable-model-invocation: true
 ---
 
 Determine the appropriate UI system for the project and route to the correct specialized skill.

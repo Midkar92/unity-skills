@@ -1,6 +1,7 @@
 ---
 name: ui-ugui
 description: Understands, edits, and generates Unity uGUI Canvas hierarchies, RectTransforms, Layout Groups, and prefab UI. Use for requests involving Canvas, uGUI, RectTransform, or prefab UI files.
+disable-model-invocation: true
 ---
 
 Understand existing Unity uGUI, make targeted edits, and generate new Canvas-based hierarchies.

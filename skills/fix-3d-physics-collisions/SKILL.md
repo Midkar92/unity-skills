@@ -2,6 +2,7 @@
 name: fix-3d-physics-collisions
 description: Diagnoses and fixes 3D PhysX collision, trigger, and raycast problems. Use when asked to fix OnCollisionEnter or OnTriggerEnter not firing, objects passing through each other, raycasts that miss, or a misbehaving MeshCollider.
 required_editor_version: ">=6000.3"
+disable-model-invocation: true
 ---
 
 # Diagnose and fix 3D physics collisions

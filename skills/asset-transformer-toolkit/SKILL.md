@@ -6,6 +6,7 @@ description: >-
   project, not for converting files from the shell.
 required_packages:
     com.unity.industry.toolkit: ">=4.0.0"
+disable-model-invocation: true
 ---
 ### Before you start: check the package version
 This skill needs Asset Transformer Toolkit 4.0.0 or later (`com.unity.industry.toolkit`). Earlier versions don't have the `ATTAssistantUtilities` API every workflow below relies on.

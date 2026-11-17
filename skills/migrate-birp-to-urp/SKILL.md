@@ -1,6 +1,7 @@
 ---
 name: migrate-birp-to-urp
 description: Plans, executes, and troubleshoots migration from the Built-in Render Pipeline to URP. Use when asked to convert a project, scene, material, or shader to URP, or to fix visuals broken by the change.
+disable-model-invocation: true
 ---
 Classify the request, inspect the current project state, choose the correct migration path, and validate the Built-in to URP migration outcome carefully.
 

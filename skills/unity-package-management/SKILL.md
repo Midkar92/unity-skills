@@ -5,6 +5,7 @@ allowed-tools:
   - Bash
   - Write
   - Edit
+disable-model-invocation: true
 ---
 
 # Unity Package Management (Pipeline commands first, C# script as the fallback)

@@ -1,6 +1,7 @@
 ---
 name: unity-pipeline
 description: Control a Unity Editor or Player via the unity-pipeline package. Compile, run tests, eval, method-reload code, enter Play Mode, capture screenshots.
+disable-model-invocation: true
 ---
 
 # Unity Pipeline (agent control)

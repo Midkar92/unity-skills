@@ -1,6 +1,7 @@
 ---
 name: implement-in-app-purchases
 description: Implements, configures, and debugs Unity In-App Purchases, including subscriptions, receipt validation, and direct-to-customer payments via Stripe or Coda. Use when asked about real-money purchases or microtransactions, or migrating from native store billing, RevenueCat, Adapty, Essential Kit, or UniPay.
+disable-model-invocation: true
 ---
 
 # Unity In-App Purchasing

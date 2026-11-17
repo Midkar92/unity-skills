@@ -1,6 +1,7 @@
 ---
 name: optimize-text-mesh-pro
 description: Optimizes TextMeshPro rendering, memory, and font setup, including font asset stacks, fallback atlases, SDF quality, and worldspace text. Use when the user asks about TextMeshPro font assets, CJK font fallbacks, or TMP memory, build size, quality or performance, not about translating text.
+disable-model-invocation: true
 ---
 
 # Optimize TextMeshPro
